@@ -167,17 +167,73 @@
     background-color: rgba(247, 235, 207, 1);
   
   }
+  .bg-colour{
+    background-color: rgba(245, 245, 245, 1);
+  }
 
  /* news style */
  .news{
   display: flex;
+  justify-content: space-between;
+  margin: 24px 260px 24px 0px;
+  background-color:rgba(255, 255, 255, 1);
+  border-radius: 24px;
  }
+
+ .news-title{
+  font-weight:  800;
+  font-size: 40px;
+  color:rgba(14, 14, 14, 1) ;
+
+ }
+ .news-description{
+  font-weight:  400;
+  font-size: 16px;
+  color:rgba(14, 14, 14, 0.7) ;
+  
+  
+ }
+ .news-title{
+  font-weight:  800;
+  font-size: 32px;
+  color:rgba(14, 14, 14, 0.8);
+
+ }
+ .time{ font-weight:  400;
+  font-size: 16px;
+  color:rgba(14, 14, 14, 0.7) ;
+
+ }
+ .button{
+   font-weight: 400;
+    font-size: 18px;
+    color: white;
+    border: none;
+    padding:13px 26px ;
+    border-radius: 8px;
+    background-color: rgba(0, 106, 80, 1);
+ }
+
+ .img-k{
+  border-radius: 24px;
+  margin: 48px 48px 48px 48px;
+ 
+ }
+ .news-all{
+  margin:56px 48px 56px 48px;
+ }
+
 
  /* news style-2 */
 
- .news-2{
+ /* .news-2{
+  
   display: flex;
- }
+  justify-content: space-between;
+  margin: 0px 24px 260px 24px;
+  background-color:rgba(255, 255, 255, 1);
+  border-radius: 24px;
+ } */
 
 
  /* subscrive-box */
