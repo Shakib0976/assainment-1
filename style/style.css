@@ -88,7 +88,7 @@
 .banner{
     display: flex;
     justify-content: space-between;
-    margin:80px 100px 80px 100px;
+    margin:60px 100px;
     background-color:#C6E4D6;
     border-radius: 24px;
     padding:100px 80px 100px 80px;
@@ -175,7 +175,7 @@
  .news{
   display: flex;
   justify-content: space-between;
-  margin: 24px 260px 24px 0px;
+  margin:60px 160px;
   background-color:rgba(255, 255, 255, 1);
   border-radius: 24px;
  }
@@ -359,3 +359,7 @@
   background-color: rgba(255, 255, 255, 1);
   border-radius: 16px;
 }
+ .task-2{
+  margin: 60px 160px;
+ }
+ 
