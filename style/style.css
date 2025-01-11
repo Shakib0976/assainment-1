@@ -242,6 +242,10 @@
 .donate{
   
   text-align: center;
+  
+}
+.box-size{
+  margin: 60px 160px;
 }
 .donate-ammount{
   display: flex;
@@ -296,6 +300,43 @@
 
   margin: 0px 160px 0px 160px;
 }
+
+/* subscribe-box-style */
+ 
+.Subscribe-box{
+ padding: 80px 265px;
+ margin: 60px 160px;
+ background-color: rgba(198, 228, 214, 1);
+ border-radius: 24px;
+
+}
+.subscribe-title{
+  font-weight:  800;
+  font-size: 40px;
+  color:rgba(14, 14, 14, 1);
+
+}
+.input-type{
+  padding: 18px 140px;
+  border-right: none;
+  border-radius:16px 0px 0px 16px;
+
+}
+ 
+  .btn-2{
+    padding: 17px 34px;
+    background-color: rgba(0, 106, 80, 1);
+    color: white;
+    font-size: 18px;
+    font-weight: 600s;
+    border-left: none;
+    border-radius:0px 16px 16px 0px;
+  }
+  .optional{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(14, 14, 14, 0.7);
+  }
 
 
 
