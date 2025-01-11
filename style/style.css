@@ -337,6 +337,25 @@
     font-weight: 400;
     color: rgba(14, 14, 14, 0.7);
   }
-
-
-
+/* my love muhammad (saw) */
+.perag{
+  font-size: 16px;
+  font-weight: 400;
+  color:rgba(14, 14, 14, 0.8);
+}
+.pera-title{
+  font-size: 20px;
+  font-weight: 600;
+  color:rgba(14, 14, 14, 0.8);
+}
+.pera-sub-title{
+  font-size: 16px;
+  font-weight: 400;
+  color:rgba(14, 14, 14, 0.8); 
+}
+.pera-box{
+  padding: 48px 24px;
+  margin: 60px 160px;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 16px;
+}
