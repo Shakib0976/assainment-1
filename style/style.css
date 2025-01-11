@@ -104,8 +104,69 @@
  .box-content{
   display: flex;
   gap: 25px;
-  margin: 50px 0px 50px 0px;
+  
  }
+ .skill-content{
+
+  padding: 30px;
+  border-radius: 16px;
+  margin :24px 0px 24px 0px ;
+ }
+ .box-title{
+  margin-right:160px;
+  font-size:40px;
+  font-weight:800;
+  font-style: normal;
+  color: rgba(14, 14, 14, 1);
+
+ }
+ .box-description{
+  font-weight:  400;
+  font-size: 16px;
+  color: rgba(14, 14, 14, 0.7);
+
+ }
+
+ .skill-title{
+  font-size: 20px;
+  font-weight: 800;
+  color: rgba(14, 14, 14, 0.8);
+ }
+.btn-box{
+  
+    font-weight: 700;
+    font-size: 16px;
+    color: white;
+    border: none;
+    padding:11px 20px ;
+    border-radius: 8px;
+}
+.button-1{
+  background-color: rgba(84, 144, 245, 1);
+}
+.button-2{
+  background-color: rgba(9, 161, 92, 1);
+}
+.button-3{
+  background-color: rgba(255, 194, 57, 1);
+}
+ 
+
+
+ 
+ .skill-1{
+  background-color: rgba(84, 144, 245, 0.2);
+  
+
+ }
+ .skill-2{
+  background-color: rgba(198, 228, 214, 1);
+  
+ }
+  .skill-3{
+    background-color: rgba(247, 235, 207, 1);
+  
+  }
 
  /* news style */
  .news{
