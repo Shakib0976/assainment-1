@@ -58,7 +58,7 @@
 
 
 
-
+/* task-1 style */
 
 .btn-full{
     background-color: #006A50;
@@ -80,6 +80,7 @@
     font-style:normal;
     font-size: 56px;
     color: rgba(14, 14, 14, 1);
+
 }
 .banner-pic{
     width: 475px;
@@ -98,3 +99,50 @@
   
 }
  
+/* task-2 style */
+
+ .box-content{
+  display: flex;
+  gap: 25px;
+  margin: 50px 0px 50px 0px;
+ }
+
+ /* news style */
+ .news{
+  display: flex;
+ }
+
+ /* news style-2 */
+
+ .news-2{
+  display: flex;
+ }
+
+
+ /* subscrive-box */
+ .Subscribe-box{
+    text-align: center;
+ }
+
+
+
+
+ /* pera-box */
+
+.pera-box{
+  background-image:url('quote-bg.png');
+  background-repeat: no-repeat;
+}
+
+
+/* donate-style */
+.donate{
+  text-align: center;
+}
+.donate-ammount{
+  display: flex;
+}
+
+
+
+
